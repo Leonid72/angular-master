@@ -1,5 +1,8 @@
 https://www.youtube.com/watch?v=yCIti018Srw&t=5784s
 # AngularCrashCourse2022
+https://stackblitz.com/edit/cascading-dropdown-angular-wkuskk?file=app%2Fapp.component.ts
+https://stackblitz.com/edit/cascading-dropdown-angular?file=app%2Fselect.service.ts,app%2Fapp.component.ts
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
